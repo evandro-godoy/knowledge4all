@@ -1,0 +1,82 @@
+{
+  "issues": [
+    {
+      "key": "TI-101",
+      "fields": {
+        "summary": "Dúvida sobre nova norma de férias",
+        "description": "Onde encontro o novo documento sobre a política de férias? A área de RH não responde.",
+        "status": {
+          "name": "Concluído"
+        },
+        "resolution": "Resolvido",
+        "comment": {
+          "comments": [
+            {
+              "body": "A nova norma está disponível na Intranet, na secção 'Documentos RH'. Link: http://intranet/rh/normas/ferias-2025"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": "TI-102",
+      "fields": {
+        "summary": "Não consigo aceder ao sistema de sinistros",
+        "description": "O meu login no sistema 'SeguroAuto' parou de funcionar. É urgente.",
+        "status": {
+          "name": "Concluído"
+        },
+        "resolution": "Resolvido",
+        "comment": {
+          "comments": [
+            {
+              "body": "O utilizador estava no grupo errado. Movido para o grupo 'Analistas_Sinistro'. Acesso restaurado."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": "TI-103",
+      "fields": {
+        "summary": "Qual o documento para reembolso de despesas?",
+        "description": "Fiz uma viagem e preciso pedir o reembolso. Qual formulário devo usar?",
+        "status": {
+          "name": "Em Andamento"
+        },
+        "resolution": null,
+        "comment": {
+          "comments": []
+        }
+      }
+    },
+    {
+      "key": "TI-104",
+      "fields": {
+        "summary": "Onde encontro a norma de vestimenta (dress code)?",
+        "description": "Preciso de saber qual a norma de vestimenta para visitar clientes.",
+        "status": {
+          "name": "Aberto"
+        },
+        "resolution": null,
+        "comment": {
+          "comments": []
+        }
+      }
+    },
+    {
+      "key": "TI-105",
+      "fields": {
+        "summary": "Erro no login do 'SeguroAuto'",
+        "description": "Não consigo aceder ao 'SeguroAuto' desde ontem. A minha equipa toda está com o mesmo problema.",
+        "status": {
+          "name": "Aberto"
+        },
+        "resolution": null,
+        "comment": {
+          "comments": []
+        }
+      }
+    }
+  ]
+}
