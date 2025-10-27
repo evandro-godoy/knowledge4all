@@ -1,0 +1,23 @@
+# Ignorar ambientes virtuais do Python (o Poetry pode criar isto)
+.venv/
+venv/
+*.pyc
+
+# Ignorar caches do Python
+__pycache__/
+
+# Ignorar ficheiros de dados sensíveis ou brutos
+# MUITO IMPORTANTE para o seu caso de uso!
+data/dados_jira.json
+data/*.json
+
+# Ignorar relatórios gerados (devem ser gerados, não versionados)
+reports/
+
+# Ficheiros específicos do Poetry (build/distribuição)
+dist/
+*.egg-info/
+
+# Ficheiros de sistema (Mac e Windows)
+.DS_Store
+Thumbs.db
